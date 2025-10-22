@@ -1,0 +1,208 @@
+git push
+push
+git clone https://github.com/sofiasartori/UTN-FRA_SO_Examenes
+cd ~
+mkdir -p AySO && cd AySO
+git clone https://github.com/sofiasartori/UTN-FRA_SO_Examenes
+cd UTN-FRA_SO_Examenes
+./script_Precondicion.sh
+source ~/.bashrc
+[200~mkdir -p datos/{carpeta1,carpeta2,carpeta3/{sub1,sub2}}
+mkdir -p datos/{carpeta1,carpeta2,carpeta3/{sub1,sub2}}
+echo 'mkdir -p datos/{carpeta1,carpeta2,carpeta3/{sub1,sub2}}' > Punto_A.sh
+git add Punto_A.sh
+git commit -m "Punto A"
+git push
+[200~git clone https://github.com/<tu_usuario>/Recu_TP_AySO.git
+cd Recu_TP_AySO
+git clone https://github.com/<tu_usuario>/Recu_TP_AySO.git
+git clone https://github.com/TinoRossi/Recu_TP_AySO.git
+[200~cd ~/AySO~
+cd ~/AySO
+git clone https://github.com/TinoRossi/Recu_TP_AySO.git
+cd Recu_TP_AySO
+git clone https://github.com/TinoRossi/Recu_TP_AySO.git
+git clone https://github.com/TinoRossi/Recu_TP_AySO.git
+Rngo126
+git clone https://github.com/TinoRossi/Recu_TP_AySO.git
+git clone https://github.com/TinoRossi/Recu_TP_AySO.git
+git clone https://github.com/TinoRossi/Recu_TP_AySO.git
+git clone https://github.com/TinoRossii/Recu_TP_AySO.git
+cd Recu_TP_AySO/
+cat > README.md <<'EOF'
+Alumno: Valentino Rossi
+Comisión: 116
+Turno: Mañana
+EOF
+
+git add README.md
+git commit -m "readme"
+git push
+mkdir -p datos
+whoami > datos/validar1.txt
+cat > Punto_B.sh <<'EOF'
+mkdir -p datos
+whoami > datos/validar1.txt
+EOF
+
+git add Punto_B.sh datos/validar1.txt
+git commit -m "ADD: Punto B - simulación de usuarios y permisos (Git Bash)"
+git commit -m "Punto B"
+git push
+clear
+git clone https://github.com/sofiasartori/UTN-FRA_SO_Examenes
+cd ~
+mkdir -p AySO && cd AySO
+git clone https://github.com/sofiasartori/UTN-FRA_SO_Examenes
+git clone https://github.com/sofiasartori/UTN-FRA_SO_Examenes
+git clone https://github.com/TinoRossii/Recu_TP_AySO.git
+git clone https://github.com/TinoRossii/Recu_TP_AySO.git
+cd Recu_TP_AySO/
+cat > README.md <<'EOF'
+Alumno: Valentino Rossi
+Comisión: 116
+Turno: Mañana
+EOF
+
+git add README.md
+git commit -m "README"
+git push
+clear
+git clone https://github.com/sofiasartori/UTN-FRA_SO_Examenes
+cd ~
+mkdir -p AySO && cd AySO
+git clone https://github.com/sofiasartori/UTN-FRA_SO_Examenes
+git clone https://github.com/sofiasartori/UTN-FRA_SO_Examenes
+git clone https://github.com/TinoRossii/Recu_TP_AySo.git
+cd Recu_TP_AySo/
+cat > README.md <<'EOF'
+Alumno: Valentino Rossi
+Comisión: 116
+Turno: Mañana
+EOF
+
+git add README.md
+git commit -m "README"
+git push
+cd ~
+mkdir -p AySO_Nuevo
+cd AySO_Nuevo
+git clone https://github.com/TinoRossi/Recu_TP_AySO.git
+git clone https://github.com/TinoRossi/Recu_TP_AySo.git
+git clone https://github.com/TinoRossii/Recu_TP_AySo.git
+cd Recu_TP_AySO
+ls -a
+cd ~/AySO
+rm -rf UTN-FRA_SO_Examenes
+rm -rf Recu_TP_AySO
+ls -a
+cd ~
+mkdir -p AySO && cd AySO
+git clone https://github.com/TinoRossii/Recu_Tp_AySo.git
+cat > README.md <<'EOF'
+Alumno: Valentino Rossi
+Comisión: 116
+Turno: Mañana
+EOF
+
+git add README.md
+ls
+cd Recu_Tp_AySo
+git add README.md
+git commit -m "INIT: README con datos del alumno"
+git push
+cat > README.md <<'EOF'
+Alumno: Valentino Rossi
+Comisión: 116
+Turno: Mañana
+EOF
+
+git add README.md
+git commit -m "INIT: README con datos del alumno"
+git commit -m "INIT: README con datos del alumno"
+git commit -m "readme"
+git commit -m "readme"
+git push
+mkdir -p datos/{carpeta1,carpeta2,carpeta3/{sub1,sub2}}
+mkdir -p datos/{carpeta1,carpeta2,carpeta3/{sub1,sub2}}
+printf "%s\n" 'mkdir -p datos/{carpeta1,carpeta2,carpeta3/{sub1,sub2}}' > Punto_A.sh
+git add Punto_A.sh datos
+git commit -m "Punto A"
+git push
+mkdir -p datos
+whoami > datos/validar1.txt
+cat > Punto_B.sh <<'EOF'
+mkdir -p datos
+whoami > datos/validar1.txt
+EOF
+
+git add Punto_B.sh datos/validar1.txt
+git commit -m "Punto B"
+git push
+  echo "Simulación: agregar p1c1_2024_u1 al grupo p1c1_2024_Todos"
+  echo "Simulación: cambiar grupo propietario de datos -> p1c1_2024_Todos (con escritura)"
+id
+} >> datos/validar1.txt
+id
+cat > Punto_C.sh <<'EOF'
+echo "Simulación: agregar p1c1_2024_u1 al grupo p1c1_2024_Todos" >> datos/validar1.txt
+echo "Simulación: cambiar grupo propietario de datos -> p1c1_2024_Todos (con escritura)" >> datos/validar1.txt
+id >> datos/validar1.txt
+EOF
+
+git add Punto_C.sh datos/validar1.txt
+git commit -m "Punto C"
+git push
+mkdir -p Ejercicio_D/{rx,tx}
+mkdir -p Ejercicio_D/rx/{lotes_{1..20},extras_{1..100}}
+mkdir -p Ejercicio_D/tx/lotes_{1..20}
+cat > Punto_D.sh <<'EOF'
+
+cat > Punto_D.sh <<'EOF'
+mkdir -p Ejercicio_D/{rx,tx}
+mkdir -p Ejercicio_D/rx/{lotes_{1..20},extras_{1..100}}
+mkdir -p Ejercicio_D/tx/lotes_{1..20}
+EOF
+
+git add Punto_D.sh Ejercicio_D
+git commit -m "Punto D"
+git push
+mkdir -p Punto_E
+( grep -m1 -E '^MemTotal' /proc/meminfo 2>/dev/null   || systeminfo | grep -i "memoria física total\|total physical memory" | head -1   || powershell -NoProfile -Command "(Get-CimInstance Win32_ComputerSystem).TotalPhysicalMemory" | awk '{print "MemTotal: "$1" bytes"}' ) > Punto_E/Filtro_basico.txt
+( grep -m1 "model name" /proc/cpuinfo 2>/dev/null   || wmic cpu get Name 2>/dev/null | sed -n '2p'   || powershell -NoProfile -Command "(Get-CimInstance Win32_Processor).Name" ) >> Punto_E/Filtro_basico.txt
+( grep -m1 "MHz" /proc/cpuinfo 2>/dev/null   || wmic cpu get MaxClockSpeed 2>/dev/null | sed -n '2p' | awk '{print "cpu MHz: "$1}'   || powershell -NoProfile -Command "(Get-CimInstance Win32_Processor).MaxClockSpeed" | awk '{print "cpu MHz: "$1}' ) >> Punto_E/Filtro_basico.txt
+cat > Punto_E.sh <<'EOF'
+mkdir -p Punto_E
+( grep -m1 -E '^MemTotal' /proc/meminfo 2>/dev/null \
+  || systeminfo | grep -i "memoria física total\|total physical memory" | head -1 \
+  || powershell -NoProfile -Command "(Get-CimInstance Win32_ComputerSystem).TotalPhysicalMemory" | awk '{print "MemTotal: "$1" bytes"}' \
+) > Punto_E/Filtro_basico.txt
+( grep -m1 "model name" /proc/cpuinfo 2>/dev/null \
+  || wmic cpu get Name 2>/dev/null | sed -n '2p' \
+  || powershell -NoProfile -Command "(Get-CimInstance Win32_Processor).Name" \
+) >> Punto_E/Filtro_basico.txt
+( grep -m1 "MHz" /proc/cpuinfo 2>/dev/null \
+  || wmic cpu get MaxClockSpeed 2>/dev/null | sed -n '2p' | awk '{print "cpu MHz: "$1}' \
+  || powershell -NoProfile -Command "(Get-CimInstance Win32_Processor).MaxClockSpeed" | awk '{print "cpu MHz: "$1}' \
+) >> Punto_E/Filtro_basico.txt
+EOF
+
+git add Punto_E.sh Punto_E/Filtro_basico.txt
+git commit -m "Punto E"
+git push
+mkdir -p Punto_F
+{   echo "Fecha: $(date)";   echo "Usuario: ${USERNAME:-$USER}";   echo "Hostname: $(hostname)";   echo "IP pública: $(curl -s ifconfig.me)"; } > Punto_F/Filtro_Avanzado.txt
+cat > Punto_F.sh <<'EOF'
+mkdir -p Punto_F
+{
+  echo "Fecha: $(date)"
+  echo "Usuario: ${USERNAME:-$USER}"
+  echo "Hostname: $(hostname)"
+  echo "IP pública: $(curl -s ifconfig.me)"
+} > Punto_F/Filtro_Avanzado.txt
+EOF
+
+git add Punto_F.sh Punto_F/Filtro_Avanzado.txt
+git commit -m "Punto F"
+git push
+history -a

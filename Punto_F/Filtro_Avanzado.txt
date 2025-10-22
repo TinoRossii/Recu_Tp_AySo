@@ -1,0 +1,4 @@
+Fecha: Wed Oct 22 01:06:27     2025
+Usuario: Valentino
+Hostname: DESKTOP-9I9J6PO
+IP pública: 2800:2141:5200:6483:c82:326:7c08:c897
